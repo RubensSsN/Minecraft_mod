@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "modid:bagulho_teste"
+  },
+  "result": "minecraft:diamond_sword",
+  "experience": 0.5,
+  "cookingtime": 100
+}
